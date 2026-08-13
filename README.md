@@ -28,6 +28,7 @@ The Single-Node cluster accepted the container image deployment, provisioned the
 ### 2. Streamed Container Data Ingestion Payload Output
 The internal logs verify that the application successfully opened a network socket across the web, authenticated the runtime environment variables against the RapidAPI gateway, and extracted the live data payload.
 
-<img width="1916" height="1186" alt="pipeline" src="https://github.com/user-attachments/assets/1855f002-7e50-4875-98ce-b88e15eff784" />
+<img width="1460" height="657" alt="nba-data" src="https://github.com/user-attachments/assets/7e1b0260-b2c9-4ca2-9d62-be8dce92dcc9" />
+
 
 
